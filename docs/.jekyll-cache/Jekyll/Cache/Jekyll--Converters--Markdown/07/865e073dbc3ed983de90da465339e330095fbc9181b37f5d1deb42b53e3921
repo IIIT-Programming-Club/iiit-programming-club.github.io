@@ -1,0 +1,84 @@
+I"�<h1 id="lockout-tournament">Lockout Tournament</h1>
+<p>This is a 1v1 style lockout tournament that the programming club conducts. A lockout is a 1v1 match between two contestants. Both the contestants are provided with a set of 5 problems from <a href="https://codeforces.com/">Codeforces</a>. Fastest AC to the problem gives them points. The contestant with more number of points at the end of the contest wins!</p>
+
+<p>The 2021 Lockout Tournament is <strong>ONGOING!</strong></p>
+
+<p>Join our discord server to watch the contestants go at it live!</p>
+
+<h2 id="group-stages">Group Stages</h2>
+<p>You can follow along and vote for your preferred contestants at the links provided below!</p>
+<ul>
+  <li><a href="https://challonge.com/lockout_2021_group_0">Group 0</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_1">Group 1</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_2">Group 2</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_3">Group 3</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_4">Group 4</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_5">Group 5</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_6">Group 6</a></li>
+  <li><a href="https://challonge.com/lockout_2021_group_7">Group 7</a></li>
+</ul>
+
+<h2 id="rules-of-the-tournament">Rules of the Tournament</h2>
+
+<p>There are 88 participants.</p>
+
+<p>There will be eight groups listed from 0 to 7. Each group has 11 participants.</p>
+
+<p><strong>Format:</strong> Four-round Swiss tournament
+Swiss Details</p>
+<ul>
+  <li>Match win earns 1 point, and draw earns 0.5. Byes earn 1 point.</li>
+  <li>In the case of a tie-break, the following will be used, in the order listed.
+    <ol>
+      <li>Median-Buchholz (sum of a player’s opponents’ scores, with the best and worst scores discarded)</li>
+      <li>Wins vs. tied participants</li>
+      <li>Match wins</li>
+      <li>Drawing of lots</li>
+    </ol>
+  </li>
+  <li>Since there are an odd number of participants, one participant gets a bye in each round in each group.</li>
+  <li>Seeding is done on average of current and peak CF ratings.</li>
+  <li>Each round will last for 2 days, i.e. participants get 48 hours to complete their match per round.</li>
+  <li>If one of the opponents doesn’t show up, the other gets a bye. if both don’t show up both get 0 points.</li>
+  <li>At the end of the group stage, the top two contestants advance towards the <strong>Masters Knockouts</strong>, the next top two contestants advance towards the <strong>Challengers Knockouts</strong> and the next top two contestants advance towards the <strong>Contenders Knockouts</strong>.</li>
+</ul>
+
+<blockquote>
+  <p>Note: We have not taken any steps to monitor cheating because there are endless ways to cheat. We request you to not cheat (There is nothing to gain) and make this tournament fair. Cheating: Looking at the editorial of the problem, looking at others submissions, and any other means of reaching at the solution that would not have been possible if that</p>
+</blockquote>
+
+<h2 id="match-format">Match Format</h2>
+
+<ul>
+  <li>There will be 6 problems per match.</li>
+  <li>The points for being the first to solve each question is 101, 202, 304, 408, 516, 632 respectively.</li>
+  <li>In the group stages, the rating of each problem is 1200, 1400, 1600, 1700, 1800, 1900</li>
+  <li>You aren’t allowed to look at the test cases of the problem you are solving.</li>
+  <li>You are allowed to Google general algorithms, similar to a normal Codeforces contest. Make sure you aren’t directly looking for the problem’s solution.</li>
+</ul>
+
+<h2 id="previous-lockout-winners">Previous Lockout Winners</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Winner</th>
+      <th>Year</th>
+      <th>Division</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gaurav Sultane</td>
+      <td>2020</td>
+      <td>Masters</td>
+    </tr>
+    <tr>
+      <td>Kunal Vaswani</td>
+      <td>2020</td>
+      <td>Challengers</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

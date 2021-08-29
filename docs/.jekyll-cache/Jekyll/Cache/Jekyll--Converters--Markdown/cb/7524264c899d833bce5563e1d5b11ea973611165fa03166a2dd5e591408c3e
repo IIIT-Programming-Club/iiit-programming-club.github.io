@@ -1,0 +1,27 @@
+I"�<h1 id="summer-training">Summer Training</h1>
+
+<p>The goal is to cover a series of CP topics during the summer vacations. We will setup weekly contests and each contest will be based on a particular topic. The topic and the corresponding reading material and practice problems will be shared by the beginning of each week, and there will be a contest near the end of the week based on the topic.</p>
+
+<p>The idea is to build up slowly from beginner topics to cover more advanced ones. This is the annual ‘tentative’ list of topics we usually aim to cover.</p>
+
+<ol>
+  <li>Implementation and Greedy</li>
+  <li>Basic Number Theory</li>
+  <li>Binary Search, Ternary Search and Sliding Window</li>
+  <li>Recursion and Backtracking</li>
+  <li>Dynamic Programming</li>
+  <li>Graphs - DFS and BFS</li>
+  <li>Graphs - Dijkstras, ???</li>
+  <li>Probability and Expectation</li>
+  <li>SQRT Decomposition and Mo’s Algorithm</li>
+  <li>Segment Tree and Lazy Propagation</li>
+  <li>Bitmasking and SOS Dynamic Programming</li>
+  <li>Digit DP and DP on Trees</li>
+  <li>Strings</li>
+  <li>Advanced Number Theory</li>
+</ol>
+
+<p>More topics may be added later depending on requests and on the time we get.</p>
+
+<p>The Notion doc containing the resources and contests links for this year’s Summer Training can be found <a href="https://www.notion.so/8c670f95aabe4f1fb01dec219319fb94?v=4d102482a60b4b35b808378c100a6995&amp;fbclid=IwAR3dItEyCW9VdCNQaVbLsxOUlDSQXZOV3zghthCI3muBLaP8vP8pL2AqWWM">here</a></p>
+:ET
