@@ -18,17 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: IIIT Programming Club
+logo: "/assets/images/logo.png"
+email: programming.club@students.iiit.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Hi. Welcome to the IIIT Programming Club! 
+  We are just a bunch of people who love to code and participate in programming contests! 
+  Programming can be fun, and we are here to prove exactly that. 
+baseurl: "/IIIT-ProgrammingClub" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+aux_links:
+  "Facebook":
+    - "https://www.facebook.com/groups/iiithprogrammingclub"
+  "Discord":
+    - "https://discord.gg/gkqY2C5XPz"
 # Build settings
 theme: just-the-docs
 plugins:
