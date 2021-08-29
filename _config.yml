@@ -20,14 +20,16 @@
 
 title: IIIT Programming Club
 logo: "/assets/images/logo.png"
+markdown: CommonMarkGhPages
 email: programming.club@students.iiit.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Hi. Welcome to the IIIT Programming Club! 
   We are just a bunch of people who love to code and participate in programming contests! 
   Programming can be fun, and we are here to prove exactly that. 
-domain: iiit-programming-club.github.io
-baseurl: "/iiit-programming-club" # the subpath of your site, e.g. /blog
-url: "https://iiit-programming-club.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+remote_theme: pmarsceill/just-the-docs
+# domain: iiit-programming-club.github.io
+# baseurl: "/iiit-programming-club" # the subpath of your site, e.g. /blog
+# url: "https://iiit-programming-club.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
   "Facebook":
     - "https://www.facebook.com/groups/iiithprogrammingclub"
@@ -35,9 +37,8 @@ aux_links:
     - "https://discord.gg/gkqY2C5XPz"
 # Build settings
 # theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 # color_scheme: dark
 
 # Exclude from processing.
