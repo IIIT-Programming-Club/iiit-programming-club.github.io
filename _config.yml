@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are just a bunch of people who love to code and participate in programming contests! 
   Programming can be fun, and we are here to prove exactly that. 
 domain: iiit-programming-club.github.io
-baseurl: "/iiit-programming-club/" # the subpath of your site, e.g. /blog
-url: "https://iiit-programming-club.github.io " # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/iiit-programming-club" # the subpath of your site, e.g. /blog
+url: "https://iiit-programming-club.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
   "Facebook":
     - "https://www.facebook.com/groups/iiithprogrammingclub"
