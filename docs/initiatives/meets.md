@@ -15,3 +15,5 @@ For the newcomers and beginners. There are always enough beginners in UG1, UG2, 
 
 ## Advanced Meets
 These meets are aimed at those of you who are relatively more experienced CPers. Any teams aiming to make it to the regionals and perform should definitely attend them!
+
+You can find a complete list of all the meets we've held so far at this [link](https://www.facebook.com/groups/iiithprogrammingclub/events)
