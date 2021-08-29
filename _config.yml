@@ -36,6 +36,7 @@ aux_links:
 theme: just-the-docs
 plugins:
   - jekyll-feed
+# color_scheme: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.

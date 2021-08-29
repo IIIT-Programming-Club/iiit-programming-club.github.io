@@ -46,7 +46,7 @@ Swiss Details
 - If one of the opponents doesn’t show up, the other gets a bye. if both don’t show up both get 0 points.
 - At the end of the group stage, the top two contestants advance towards the **Masters Knockouts**, the next top two contestants advance towards the **Challengers Knockouts** and the next top two contestants advance towards the **Contenders Knockouts**.
 
-> Note: We have not taken any steps to monitor cheating because there are endless ways to cheat. We request you to not cheat (There is nothing to gain) and make this tournament fair. Cheating: Looking at the editorial of the problem, looking at others submissions, and any other means of reaching at the solution that would not have been possible if that 
+> Note: We have not taken any steps to monitor cheating because there are endless ways to cheat. We request you to not cheat (There is nothing to gain) and make this tournament fair. Cheating: Looking at the editorial of the problem, looking at others submissions, and any other means of reaching at the solution that would not have been possible if that was a live contest.
 
 ## Match Format
 
