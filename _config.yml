@@ -20,7 +20,6 @@
 
 title: IIIT Programming Club
 logo: "/assets/images/logo.png"
-markdown: CommonMarkGhPages
 email: programming.club@students.iiit.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Hi. Welcome to the IIIT Programming Club! 
