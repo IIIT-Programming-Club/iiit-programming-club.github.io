@@ -88,7 +88,7 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 
 [CodeChef discuss](https://discuss.codechef.com/t/indian-teams-in-acm-icpc-2014-live-rankings/5997)
 
-## 2012-13 
+## 2012-13 - effort_infinite
 
 **effort_infinite** from IIIT-H ranked #1 at the Kharagpur regional and secured their spot in the World Finals. At the world final, they received a Honorable Mention. 
 
@@ -99,7 +99,7 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 
 [CodeChef Facebook Post](https://www.facebook.com/CodeChef/posts/255217694607299/)
 
-## 2011-12
+## 2011-12 - TuringMachine
 
 **TuringMachine** from IIIT, set the record for the best ever performance by an Indian team in the history of the ACM ICPC and this record holds till date. After making it through the regional rounds the team went on to secure a global rank of **#18** at the 2012 ACM-ICPC World Finals, making history. 
 
