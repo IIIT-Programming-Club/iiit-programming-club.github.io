@@ -28,13 +28,13 @@ The 2020 WFs stand postponed as of now due to the coronavirus pandemic.
 
 [Ping! ICPC Chronicles - tesla_protocol (Interview)](https://pingiiit.org/2020/08/icpc-tesla-protocol/)
 
-[Code-chef page](https://www.codechef.com/icpc/2020)
+[CodeChef page](https://www.codechef.com/icpc/2020)
 
 ## 2017-18 - TooWeakTooSlow
 
 Team **TooWeakTooSlow** solved 7 problems out of the 11 in Amritapuri and 10 out of the 11 in Asia Chennai. And by doing so, they won not one, but **both** the regional sites they participated in (#1). They were the **only** team to solve 10 in the AC regional, with the second and third teams coming in at 9 solves each. They also ranked #2 in the common online round. 
 
-Special mention to team **Tesla** for ranking 4th in the Amritapuri regional. This is a WF qualifying rank. But because **TooWeakTooSlow** won both the regionals and only **one** team per college is allowed to represent the college at the final, it was **TooWeakTooSlow** who went on forward.
+Special mention to team **Tesla** (Anurudh Peduri, Devansh Gautam, Additya Popli) for ranking 4th in the Amritapuri regional. This is a WF qualifying rank. But because **TooWeakTooSlow** won both the regionals and only **one** team per college is allowed to represent the college at the final, it was **TooWeakTooSlow** who went on forward.
 
 Following their dominant performance in the regional they went on to secure a global rank of #31 in the World Finals, and were the best performing team from India in that year's ICPC.
 
@@ -45,7 +45,7 @@ Following their dominant performance in the regional they went on to secure a gl
 
 [Blog post](https://blogs.iiit.ac.in/iiit-hyderabad-team-in-acm-icpc-finals/)
 
-[Code-chef page](https://www.codechef.com/icpc/2018)
+[CodeChef page](https://www.codechef.com/icpc/2018)
 
 ## 2016-17 - mobius_treap
 
@@ -58,7 +58,7 @@ Team **mobius_treap** from IIIT-H ranked **#2** in both the Amritapuri and Asia 
 
 [News article gateway](https://www.iiit.ac.in/news/iiit-hyderabad-makes-icpc-world-finals/)
 
-[Code-chef page](https://www.codechef.com/icpc/2017)
+[CodeChef page](https://www.codechef.com/icpc/2017)
 
 ## 2014-15 - Believe
 
@@ -73,7 +73,7 @@ This was also, the **7th** consecutive year in which IIIT-Hyderabad had qualifie
 
 [Facebook blog post](https://www.facebook.com/IIITH/posts/iiit-hyderabad-qualifies-for-acm-icpc-world-finals-for-seventh-year-in-a-rowthe-/10152740230638717/)
 
-[Code-chef page](https://www.codechef.com/icpc/2015)
+[CodeChef page](https://www.codechef.com/icpc/2015)
 
 ## 2013-14 - Illusion
 
@@ -86,7 +86,7 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 - Nishant Krishan 
 - Pulkit Goel
 
-[Code-chef discuss](https://discuss.codechef.com/t/indian-teams-in-acm-icpc-2014-live-rankings/5997)
+[CodeChef discuss](https://discuss.codechef.com/t/indian-teams-in-acm-icpc-2014-live-rankings/5997)
 
 ## 2012-13 
 
@@ -97,7 +97,7 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 - Kaushik Iska
 - Kaushik MV
 
-[Code-chef Facebook Post](https://www.facebook.com/CodeChef/posts/255217694607299/)
+[CodeChef Facebook Post](https://www.facebook.com/CodeChef/posts/255217694607299/)
 
 ## 2011-12
 
@@ -110,7 +110,7 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 
 [Ping! TuringMachine](https://pingiiit.org/2012/02/turing-machine/)
 
-[Code-chef Blog Post](https://blog.codechef.com/2012/09/28/a-big-shout-out-to-the-acm-icpc-world-finalists-and-go-for-gold-winners-2012/)
+[CodeChef Blog Post](https://blog.codechef.com/2012/09/28/a-big-shout-out-to-the-acm-icpc-world-finalists-and-go-for-gold-winners-2012/)
 
 ## 2010-11
 
