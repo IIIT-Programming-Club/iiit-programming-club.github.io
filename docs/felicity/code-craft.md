@@ -9,7 +9,7 @@ parent: Felicity
 
 # CodeCraft
 
-CodeCraft is IIIT-H's annual programming contest. The event comes under Threads, the annual tech fest at IIIT. They are usually div1/2 contests conducted on [Codeforces](https://codeforces.com/), with special prizes for top Indian performers.
+CodeCraft is IIIT-H's annual programming contest. The event comes under Felicity, the annual techno-cultural fest at IIIT-H! They are usually div1/2 contests conducted on [Codeforces](https://codeforces.com/), with special prizes for top Indian performers.
 
 A list of the previous CodeCraft's conducted can be found below
 

@@ -15,5 +15,5 @@ A list of the previous Decode's conducted can be found below
 
 | Year | Contest                                                      	|
 | ---- | -------------------------------------------------------------- |
-| 2021 | [Contest Page](https://www.codechef.com/DGTC2021)	            |
+| 2021 | [Contest Page](https://www.codechef.com/DGTC2021), [Announcement Page](https://codeforces.com/blog/entry/88163)|
 | 2020 | [Announcement Page](https://codeforces.com/blog/entry/73759)	|
