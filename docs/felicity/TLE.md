@@ -13,7 +13,7 @@ Unlike regular programming contests which have deterministic solutions, the goal
 
 As per the need of the problem, you give the best possible answer you could come up with and your solution is judged accordingly. Remember there's a time limit associated so you might not pass certain tests but might pass some, so you do not get any points for the test you do not pass.
 
-A list of the previous Gordion Knot's conducted can be found below
+A list of the previous TLE's conducted can be found below
 
 | Year | Contest                                                      			|
 | ---- | -------------------------------------------------------------- 		|
