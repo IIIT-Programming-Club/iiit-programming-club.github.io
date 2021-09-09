@@ -18,11 +18,11 @@ has_children: false
 
 - [Anmol Agarwal](https://github.com/anmolagarwal999) (2021-)
 - [Ashwin Mittal]() (2021-)
+- [Manasvi Vaidyula]() (2021-)
+- [Rutvij Menavlikar](https://github.com/Rutvij-1) (2021-)
 - [Keyur Chaudhari]() (2021-)
 - [Kishore Kumar](https://github.com/akcube) (2021-)
-- [Manasvi Vaidyula]() (2021-)
 - [Pramod Rao Budramane](https://github.com/PramodRaoB) (2021-)
-- [Rutvij Menavlikar](https://github.com/Rutvij-1) (2021-)
 - [Vidit Jain](https://github.com/Vidit-Jain) (2021-)
 
 # Past Admins
