@@ -34,9 +34,9 @@ The 2020 WFs stand postponed as of now due to the coronavirus pandemic.
 
 Team **TooWeakTooSlow** solved 7 problems out of the 11 in Amritapuri and 10 out of the 11 in Asia Chennai. And by doing so, they won not one, but **both** the regional sites they participated in (#1). They were the **only** team to solve 10 in the AC regional, with the second and third teams coming in at 9 solves each. They also ranked #2 in the common online round. 
 
-Special mention to team **Tesla** (Anurudh Peduri, Devansh Gautam, Additya Popli) for ranking 4th in the Amritapuri regional. This is a WF qualifying rank. But because **TooWeakTooSlow** won both the regionals and only **one** team per college is allowed to represent the college at the final, it was **TooWeakTooSlow** who went on forward.
+Special mention to team **Tesla** (Anurudh Peduri, Devansh Gautam, Additya Popli) for ranking 4th in the Amritapuri regional. If **TooWeakTooSlow** hadn't occupied one of the top 3 spots (#1), **Tesla** would've made it through to the World Final instead.
 
-Following their dominant performance in the regional they went on to secure a global rank of #31 in the World Finals, and were the best performing team from India in that year's ICPC.
+Following their dominant performance in the regional, **TooWeakTooSlow** went on to secure a global rank of #31 in the World Finals, and were the best performing team from India in that year's ICPC.
 
 **Team**
 - Tanuj Khattar
