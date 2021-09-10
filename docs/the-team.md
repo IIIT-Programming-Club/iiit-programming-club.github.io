@@ -17,10 +17,10 @@ has_children: false
 ## Moderators
 
 - [Anmol Agarwal](https://github.com/anmolagarwal999) (2021-)
-- [Ashwin Mittal]() (2021-)
+- [Ashwin Mittal](https://github.com/ashwin-mittal) (2021-)
 - [Manasvi Vaidyula]() (2021-)
 - [Rutvij Menavlikar](https://github.com/Rutvij-1) (2021-)
-- [Keyur Chaudhari]() (2021-)
+- [Keyur Chaudhari](https://www.linkedin.com/in/keyur-chaudhari-b72717201/) (2021-)
 - [Kishore Kumar](https://github.com/akcube) (2021-)
 - [Pramod Rao Budramane](https://github.com/PramodRaoB) (2021-)
 - [Vidit Jain](https://github.com/Vidit-Jain) (2021-)
@@ -28,7 +28,7 @@ has_children: false
 # Past Admins
 
 ### 2k18
-- [Arpan Dasgupta](https://arpan-dasgupta.github.io/) (2020)
+- [Arpan Dasgupta](https://github.com/arpan-dasgupta) (2020)
 - [Gaurang Tandon](https://github.com/GaurangTandon) (2020)
 - [Istasis Mishra](https://researchweb.iiit.ac.in/~istasis.mishra/) (2020)
 - [Tanish Lad](https://www.linkedin.com/in/tanish-lad/) (2020)
