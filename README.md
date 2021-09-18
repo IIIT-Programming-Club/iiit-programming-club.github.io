@@ -1,4 +1,4 @@
-# iiit-programming-club.github.io
+# IIIT Programming Club
 
 This repository contains the source code of the Programming Club's website. Feel free to make a pull request in case you wish to contribute, or open an issue if you find some error on the website.
 
