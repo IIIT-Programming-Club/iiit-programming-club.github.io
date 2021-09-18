@@ -15,8 +15,13 @@ The 2021 Lockout Tournament is **ONGOING!**
 
 Join our discord server to watch the contestants go at it live!
 
-## Group Stages
-You can follow along and vote for your preferred contestants at the links provided below!
+## Knockouts
+The knockouts have begun! Who will get to wear the title of lockout champion for the year 2021?! Vote below!
+- [Masters Knockouts](https://challonge.com/lockout_2021_masters_knockout)
+- [Challengers Knockouts](https://challonge.com/lockout_2021_challengers_knockout)
+
+## Group Stages (Finished)
+The group stages have now ended.
 - [Group 0](https://challonge.com/lockout_2021_group_0)
 - [Group 1](https://challonge.com/lockout_2021_group_1)
 - [Group 2](https://challonge.com/lockout_2021_group_2)
@@ -44,8 +49,7 @@ Swiss Details
 - Seeding is done on average of current and peak CF ratings.
 - Each round will last for 2 days, i.e. participants get 48 hours to complete their match per round.
 - If one of the opponents doesn’t show up, the other gets a bye. if both don’t show up both get 0 points.
-- At the end of the group stage, the top two contestants advance towards the **Masters Knockouts**, the next top two contestants advance towards the **Challengers Knockouts** and the next top two contestants advance towards the **Contenders Knockouts**.
-
+- At the end of the group stage, the top two contestants advance towards the **Masters Knockouts**, and the next top two contestants advance towards the **Challengers Knockouts**.
 > Note: We have not taken any steps to monitor cheating because there are endless ways to cheat. We request you to not cheat (There is nothing to gain) and make this tournament fair. Cheating: Looking at the editorial of the problem, looking at others submissions, and any other means of reaching at the solution that would not have been possible if that was a live contest.
 
 ## Match Format
