@@ -11,12 +11,15 @@ parent: Initiatives
 This is a 1v1 style lockout tournament that the programming club conducts. A lockout is a 1v1 match between two contestants. Both the contestants are provided with a set of 5 problems from [Codeforces](https://codeforces.com/). Fastest AC to the problem gives them points. The contestant with more number of points at the end of the contest wins!
 
 
-The 2021 Lockout Tournament is **ONGOING!**
-
-Join our discord server to watch the contestants go at it live!
+The 2021 Lockout Tournament has **ended.**
 
 ## Knockouts
-The knockouts have begun! Who will get to wear the title of lockout champion for the year 2021?! Vote below!
+The knockouts have ended! 
+
+**Winner Master's Division** - Anurudh Peduri
+
+**Winner Challenger's Division** - Trinadh Venkata Satyanarayana D
+
 - [Masters Knockouts](https://challonge.com/lockout_2021_masters_knockout)
 - [Challengers Knockouts](https://challonge.com/lockout_2021_challengers_knockout)
 
@@ -62,8 +65,10 @@ Swiss Details
 
 ## Previous Lockout Winners
 
-| Winner         | Year | Division    |
-| -------------- | ---- | ----------- |
-| Gaurav Sultane | 2020 | Masters     |
-| Kunal Vaswani  | 2020 | Challengers |
+| Winner         					| Year | Division    |
+| --------------------------------- | ---- | ----------- |
+| Anurudh Peduri 					| 2021 | Masters     |
+| Trinadh Venkata Satyanarayana D 	| 2021 | Challengers |
+| Gaurav Sultane 					| 2020 | Masters     |
+| Kunal Vaswani  					| 2020 | Challengers |
 
