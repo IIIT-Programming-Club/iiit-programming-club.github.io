@@ -110,14 +110,35 @@ It is also worth mentioning that team **TheHeuristics** (Lalit Kundu, Akshay Jag
 
 [CodeChef Blog Post](https://blog.codechef.com/2012/09/28/a-big-shout-out-to-the-acm-icpc-world-finalists-and-go-for-gold-winners-2012/)
 
-## 2010-11
+## 2010-11 - ANY Dream
 
 IIIT was the only Indian college which had managed to post not one, but **two** teams which had managed to qualify for the WFs. The highest global rank secured was #42 at the WF and they were the top Indian team at 2011 World Finals. 
 
-## 2009-10
+**Team**
+- Anish Shankar
+- Nadeem Moidu
+- Yash Kumar
+
+[Opengenus post](https://iq.opengenus.org/position-of-india-in-icpc/)
+
+## 2009-10 - TheKingsGambit
 
 Once again, a team from IIIT qualified for the ICPC World Finals and they again posted the best performance by an Indian team at the WFs where they secured a global rank of #36.
 
-## 2008-09
+**Team**
+- Anshuman Singh
+- Gaurav Agarwal
+- Rajat Goel
+
+[Opengenus post](https://iq.opengenus.org/position-of-india-in-icpc/)
+
+## 2008-09 - The King's Gambit
 
 This was the beginning of IIIT-H's 7 consecutive year streak of qualifying for the World Finals. The team from IIIT-H was the best performing Indian team at the World Final and received a Honorable Mention for securing a world 54th position. 
+
+**Team**
+- Ajay Somani
+- Anshuman Singh
+- Gaurav Agarwaal
+
+[Opengenus post](https://iq.opengenus.org/position-of-india-in-icpc/)
