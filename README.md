@@ -11,7 +11,7 @@ Further, we hope this website can be a common resource that can be shared to all
 - [x] Document initiatives
 - [x] Document hall of fame
 - [x] Document felicity events
+- [x] Get details of 2008-11 ICPC WFist team members
+- [x] Add FAQ
+- [x] Add links to good CP resources
 - [ ] Complete list of past admins
-- [ ] Get details of 2008-11 ICPC WFist team members
-- [ ] Add FAQ
-- [ ] Add links to good CP resources
