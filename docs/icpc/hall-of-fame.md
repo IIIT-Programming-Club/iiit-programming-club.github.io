@@ -19,7 +19,7 @@ The coronavirus pandemic has changed a lot of things and as of now the status of
 
 **tesla_protocol** from IIIT-H faced a rocky set of regional rounds where they ranked #6 in the Amritapuri regional and #4 in the Kanpur regional, thus qualifying for Asia-west. Asia-West did not start off smoothly either. At around 1.5 hours into the contest, they only had 3 solves. To give context, the top team had 6. But despite the insurmountable odds they faced, they pulled off an incredible comeback to solve a total of 9 problems by the end and finished 7th. Excluding the teams that had qualified directly via regionals, they comfortably came in *third* in slots at Asia-West.
 
-The 2020 WFs stand postponed as of now due to the coronavirus pandemic. 
+tesla_protocol started the WF strong holding the #1 rank in all of Asia West (#17 global) for the first half of the contest and ended the contest with a global rank of #46
 
 **Team**
 - Sai Anurudh Reddy Peduri
