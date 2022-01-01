@@ -88,10 +88,10 @@ info: data is in `_data/halloffame.yml`, css in `_sass/custom/custom.scss`
 {% for user in site.data.halloffame.codechef %}
 {% if user.r >= 2500 %}
   {% assign col = "cc-7" %}
-  {% assign utitle = "7★" %}
+  {% assign utitle = "7&#9733;" %}
 {% elsif user.r >= 2200 %}
   {% assign col = "cc-6" %}
-  {% assign utitle = "6★" %}
+  {% assign utitle = "6&#9733;" %}
 {% endif %}
 <tr>
   <td>{{user.name}}</td>
