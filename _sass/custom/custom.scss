@@ -10,3 +10,43 @@
     max-width: unset !important;
   }
 }
+
+/// User handles ///
+.HOF-table .table-wrapper {
+  @include mq(lg) {
+    max-width: fit-content !important;
+    width: fit-content !important;
+  }
+}
+.HOF {
+  @include mq(lg) {
+    min-width: unset !important;
+  }
+}
+.handle {
+  font-weight:600;
+}
+.cf-GM, .cf-IGM {
+  color: red;
+}
+.cf-IM, .cf-M {
+  color: #ff8c00;
+}
+.ac-dan1, .ac-dan2 {
+  color: #C0C000;
+}
+.ac-kyu1 {
+  color: #0000FF;
+}
+.cc-7 {
+  color: rgb(208, 1, 27);
+}
+.cc-6 {
+  color: #FF7F00;
+}
+.tc-red {
+  color: #EF3A3A;
+}
+.tc-yellow {
+  color: #F2C900;
+}
