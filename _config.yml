@@ -32,8 +32,6 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "Facebook":
     - "https://www.facebook.com/groups/iiithprogrammingclub"
-  "Discord":
-    - "https://discord.gg/gkqY2C5XPz"
 # Build settings
 # theme: just-the-docs
 # plugins:

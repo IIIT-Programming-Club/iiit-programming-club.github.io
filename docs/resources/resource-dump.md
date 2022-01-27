@@ -25,6 +25,10 @@ The following are famous annual contests conducted by large organizations.
 3. [SnackDown](https://snackdown.codechef.com/)
 4. [Google Hashcode](https://codingcompetitions.withgoogle.com/hashcode) [This one's an optimization contest.]
 
+# VJudge Group
+Public problem sets and contests made by the IIIT - H Programming Club
+1. [IIIT-H VJudge Group](https://vjudge.net/group/iiithprogclub)
+
 # Books
 
 1. [The CP Handbook](https://cses.fi/book/book.pdf)
