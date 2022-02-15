@@ -27,7 +27,7 @@ The coronavirus pandemic had changed a lot of things. The regionals happened onl
 tesla_protocol started the WF strong holding the #1 rank in all of Asia West (#17 global) for the first half of the contest and ended the contest with a global rank of #46
 
 **Team**
-- Sai Anurudh Reddy Peduri
+- Anurudh Peduri
 - Devansh Gautam
 - Arjun P
 
