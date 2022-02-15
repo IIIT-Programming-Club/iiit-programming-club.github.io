@@ -11,9 +11,14 @@ The best rank ever achieved by an Indian team at the International Collegiate Pr
 
 # IIIT's ICPC run over the years
 
-## 2020-21 - ???
+## 2020-21 - Holy Trinity
 
-The coronavirus pandemic has changed a lot of things and as of now the status of Asia-west and WF qualifications are not set in stone. The regionals also saw a wide range of teams taking the top spots. Team **Holy Trinity** (Gaurav Sultane, Arnav Juneja, Sayantan Jana) has however, secured #4 at the online Amritapuri regional. It is too soon to say if they will qualify or not but our hopes and prayers are with them!
+The coronavirus pandemic had changed a lot of things. The regionals happened online and saw a wide range of teams taking the top spots. And the Asia-west Finals was cancelled. Team **Holy Trinity** finished #4 at the online Amritapuri regional, and [qualified for World Finals 2021](https://icpcasia.wp.txstate.edu/2022/02/11/wf-teams-selected-from-asia-west-2020-2021-regionals/).
+
+**Team**
+- Gaurav Sultane
+- Arnav Juneja
+- Sayantan Jana
 
 ## 2019-20 - tesla_protocol
 
