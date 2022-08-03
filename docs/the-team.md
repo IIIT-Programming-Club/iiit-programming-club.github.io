@@ -17,7 +17,7 @@ has_children: false
 
 ## Moderators
 
-- [Shiveni Sinha](https://github.com/shivensinha4) (2022-)
+- [Shiven Sinha](https://github.com/shivensinha4) (2022-)
 - [Aryan Gupta](https://i.imgur.com/DKlAnMu.jpeg) (2022-)
 - [Aarush Jain](https://www.linkedin.com/in/aarush-jain-94850920a/) (2022-)
 - [Lokesh Venkatachalam](https://github.com/LokeshVenkatachalam/) (2022-)
