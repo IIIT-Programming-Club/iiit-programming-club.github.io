@@ -32,7 +32,7 @@ has_children: false
 ### 2k19
 - [Amul Agrawal](https://github.com/amul-agrawal) (2021)
 - [Kunwar Shaanjeet Singh Grover](https://groverkss.github.io/) (2021)
-- [Rahul Goel](https://rahul-goel.github.io/) (2021)
+- [Rahul Goel](https://rahulgoel.xyz) (2021)
 
 ### 2k18
 - [Arpan Dasgupta](https://github.com/arpan-dasgupta) (2020)
