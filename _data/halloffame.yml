@@ -1,7 +1,7 @@
 codeforces:
   - u: codelegend
     r: 2475
-    name: Anurudh Peduri*
+    name: Anurudh Peduri
   - u: baba
     r: 2435
     name: Tanuj Khattar
@@ -32,11 +32,14 @@ codeforces:
   - u: night_fury208
     r: 2207
     name: Tanuj Garg
+  - u: orientor
+    r: 2203
+    name: Aditya Verma*
 
 atcoder:
   - u: codelegend
     r: 2171
-    name: Anurudh Peduri*
+    name: Anurudh Peduri
   - u: gaurav172
     r: 2141
     name: Gaurav Sultane
@@ -48,65 +51,40 @@ atcoder:
     name: Sayantan Jana
   - u: dixitgarg
     r: 1850
-    name: Dixit Garg*
+    name: Dixit Garg
 
 codechef:
   - u: pulkit
-    r: 2538
+    r: 2623
     name: Pulkit Goel
   - u: tanuj_khattar
-    r: 2511
+    r: 2534
     name: Tanuj Khattar
-  - u: gauravsultane
-    r: 2471
-    name: Gaurav Sultane
-  - u: viv001
-    r: 2467
-    name: Vivek Hamirwasia
-  - u: born2rule
-    r: 2389
-    name: Swapnil Gupta
-  - u: codelegend
-    r: 2389
-    name: Anurudh Peduri*
   - u: shivensinha4
-    r: 2387
+    r: 2518
     name: Shiven Sinha*
-  - u: manujain
-    r: 2387
-    name: Manu Jain
-  - u: doltferns
-    r: 2384
-    name: Dolton Fernandes*
-  - u: ad1tya_verma
-    r: 2354
-    name: Aditya Verma*
-  - u: akshat_jain
-    r: 2353
-    name: Akshat Jain
-
-cc-extra:
+  - u: viv001
+    r: 2481
+    name: Vivek Hamirwasia
+  - u: gauravsultane
+    r: 2464
+    name: Gaurav Sultane
+  - u: anshuman_singh
+    r: 2456
+    name: Anshuman Singh
+  - u: naughty
+    r: 2382
+    name: Yash
   - u: anveshi
-    r: 2347
+    r: 2341
     name: Anveshi Shukla
-  - u: nirock123
-    r: 2347
-    name: Nirvan Singhania
-  - u: gupta_nitesh
-    r: 2342
-    name: Nitesh Gupta
-  - u: aman3456789
-    r: 2323
-    name: Aman Shahi
   - u: thunderking
-    r: 2317
+    r: 2331
     name: Shubham Rai
-  - u: vmrajas
-    r: 2315
-    name: Rajas Vanjape
-  - u: shaanknight
-    r: 2313
-    name: Sayantan Jana
+  - u: codelegend
+    r: 2318
+    name: Anurudh Peduri    
+
 
 topcoder:
   - u: innocentboy
@@ -132,7 +110,7 @@ topcoder:
     name: Manan Nayak
   - u: anurudhp
     r: 1885
-    name: Anurudh Peduri*
+    name: Anurudh Peduri
   - u: Chipe1
     r: 1879
     name: Vedant Cacklur
