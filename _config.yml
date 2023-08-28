@@ -32,6 +32,10 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "Facebook":
     - "https://www.facebook.com/groups/iiithprogrammingclub"
+  "Github":
+    - "https://github.com/IIIT-Programming-Club/iiit-programming-club.github.io"
+plugins:
+  - jekyll-include-cache
 # Build settings
 # theme: just-the-docs
 # plugins:
