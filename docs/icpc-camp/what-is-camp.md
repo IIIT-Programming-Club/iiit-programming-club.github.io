@@ -2,7 +2,7 @@
 layout: default
 title: What is camp?
 nav_order: 1
-permalink: /ICPC/What-is-camp
+permalink: /ICPC-Camp/What-is-camp
 has_children: false
 parent: ICPC-Camp
 ---

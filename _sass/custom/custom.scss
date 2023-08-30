@@ -11,6 +11,41 @@
   }
 }
 
+/// Medalist tags ///
+.label.label-gold {
+  background-color: gold;
+  color: black;
+  font-weight: bold;
+}
+
+.label.label-silver {
+  background-color: silver;
+  color: black;
+  font-weight: bold;
+}
+
+.label.label-bronze {
+  background-color: #CD7F32;
+  color: black;
+  font-weight: bold;
+}
+
+/// Standings page ///
+.problem-ac {
+    font-weight: bold;
+    color: green;
+}
+
+.problem-wa {
+    font-weight: normal;
+    color: red;
+}
+
+.team-name {
+    font-weight: normal;
+    color: #7C3AED;
+}
+
 /// User handles ///
 .HOF-table .table-wrapper {
   @include mq(lg) {
