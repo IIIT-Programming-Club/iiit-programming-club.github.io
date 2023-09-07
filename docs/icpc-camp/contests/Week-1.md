@@ -12,7 +12,7 @@ grand_parent: ICPC-Camp
 
 Original Contest: [2019-2020 Russia Team Open, High School Programming Contest (VKOSHP 19)](https://codeforces.com/gym/102443)
 
-Editorial: TBD
+Editorial: [Unofficial Editorial](https://codeforces.com/group/wlb0UYQSQF/blog/entry/12047), by [islingr](https://codeforces.com/profile/islingr)
 
 Discord problem discussion forum: [Week 1](https://discord.com/channels/1133530127607803977/1133538659820384287)
 
